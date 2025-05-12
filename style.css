@@ -1,0 +1,31 @@
+.onas {
+    border-radius: 5px;
+    background-color: lightgrey;
+}
+
+.upozor {
+    background-color: yellow;
+    border-radius: 5px;
+}
+.nejnej {
+    border-radius: 5px;
+    background-color: lightpink;
+}
+.slevy {
+    border-radius: 5px;
+    background-color: lightgrey;
+}
+.recenze {
+    border-radius: 5px;
+    background-color: lightgrey;
+    border: 2px solid black;
+}
+h2 {
+    color: rgb(1, 100, 200);
+}
+h1 {
+    color: rgb(1, 100, 200);
+}
+h3 {
+    color: rgb(1, 100, 200);
+}
